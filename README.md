@@ -3,22 +3,15 @@
 <h3 align="center">A passionate Software Developer</h3>  
 
 <br />
-<br />
 <h4 align="center">- 🔭 My Projects</h4>  
-
 <br />
 <br />
 <br />
 <br />
 
 <div align="center">
-
 ## :computer: Technologies and Tools that I know
-  
 <br />
-  
-
-
 <br />  
 <a  margin="10" href="https://www.python.org" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />  
@@ -50,20 +43,7 @@
 
 </div>
 <br />
-
 <div align="center">
-
-<a href="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=796263537&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=796263537&image_size=auto&color_scheme=light" width="815" height="auto">
-  </picture>
-</a>
-</div>
-
-<div align="center">
-
-  
 ## :mailbox: Connect with Me</br>
 </div>
 
