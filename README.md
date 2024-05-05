@@ -5,7 +5,9 @@
 <br />
 
 <div align="center">
+  
 ## :computer: Technologies and Tools that I know
+
 <br />  
 </div>
 <div align="center">
@@ -17,8 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 </div>
-
-<br />
 <br />  
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
@@ -27,19 +27,17 @@
 <img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-256.png" alt="Postgresql" title="Postgresql"/>
 </div>
-
-<br />
 <br />  
 <div align="center">
 <img height="100" src="https://hub.datree.io/img/cicd/3.png" alt="GitLab CI / CD" title="GitLab CI / CD"/>
 <img height="100" src="https://www.django-rest-framework.org/img/logo.png" alt="DJRest" title="DJRest"/>
 <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="Django" title="Django"/>
 </div>
-
-###
 <br />
 <div align="center">
+  
 ## :mailbox: Connect with Me
+
 </div>
 
 <br />
