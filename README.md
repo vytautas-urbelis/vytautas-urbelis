@@ -23,7 +23,6 @@
 
 <br />  
 <a  margin="10" href="https://www.python.org" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> </a>
-<img src="https://banner2.cleanpng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" height="40" width="52" alt="Django"  />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -44,10 +43,7 @@
 <br />  
 <img height="100" src="https://hub.datree.io/img/cicd/3.png" alt="GitLab CI / CD" title="GitLab CI / CD"/>
 <img height="100" src="https://www.django-rest-framework.org/img/logo.png" alt="DJRest" title="DJRest"/>
-
-
-
-
+<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="Django" title="Django"/>
 
 
 </div>
