@@ -1,16 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vytautas Urbelis</h1>  
 <h3 align="center">A passionate Software Developer</h3>  
-<div align="center">
 
-  
-## :mailbox: Connect with Me</br>
-</div>
-
-<br />
-<p align="center">
-<a href="https://linkedin.com/in/vytautas-urbelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimsikder" height="30" width="40" /></a>
-</p>
 
 
 <div align="center">
@@ -62,6 +53,17 @@
   </picture>
 </a>
 </div>
+
+<div align="center">
+
+  
+## :mailbox: Connect with Me</br>
+</div>
+
+<br />
+<p align="center">
+<a href="https://linkedin.com/in/vytautas-urbelis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shamimsikder" height="30" width="40" /></a>
+</p>
 
 <!--
 **vytautas-urbelis/vytautas-urbelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
