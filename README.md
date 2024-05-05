@@ -1,6 +1,7 @@
 
+<h1 align="center">Hi 👋, I'm Vytautas Urbelis</h1>  
+<h3 align="center">A passionate Programmer from Switzerland</h3>  
 
-<div align="center">
   
 ## :mailbox: Connect with Me</br>
 </div>
