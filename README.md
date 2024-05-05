@@ -29,9 +29,9 @@
 </div>
 <br />  
 <div align="center">
-<img height="100" src="https://hub.datree.io/img/cicd/3.png" alt="GitLab CI / CD" title="GitLab CI / CD"/>
-<img height="100" src="https://www.django-rest-framework.org/img/logo.png" alt="DJRest" title="DJRest"/>
-<img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="Django" title="Django"/>
+<img height="60" src="https://hub.datree.io/img/cicd/3.png" alt="GitLab CI / CD" title="GitLab CI / CD"/>
+<img height="60" src="https://www.django-rest-framework.org/img/logo.png" alt="DJRest" title="DJRest"/>
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="Django" title="Django"/>
 </div>
 <br />
 <div align="center">
