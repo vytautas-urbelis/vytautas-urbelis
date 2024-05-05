@@ -38,8 +38,18 @@
 <br />  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-256.png" height="40" width="52" alt="Docker"  />
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png" height="40" width="52" alt="gitlab logo"  />
 <img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
+<img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-256.png" alt="Postgresql" title="Postgresql"/>
+
+<br />
+<br />  
+<img height="100" src="https://hub.datree.io/img/cicd/3.png" alt="Postgresql" title="Postgresql"/>
+
+
+
+
 </div>
 
 ###
