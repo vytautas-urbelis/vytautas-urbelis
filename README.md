@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=796263537" target="_blank" style="display: block" align="center">
+<a href="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=796263537&image_size=auto&color_scheme=dark" width="815" height="auto">
     <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=796263537&image_size=auto&color_scheme=light" width="815" height="auto">
