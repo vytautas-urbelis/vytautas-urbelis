@@ -38,7 +38,7 @@
 <br />  
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-<img src="https://jwt.io/img/icon.svg" height="40" width="52" alt="jwt logo"  />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png" height="40" width="52" alt="gitlab logo"  />
 <img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 </div>
 
@@ -47,12 +47,15 @@
 </div>
 <br />
 
+<div align="center">
+
 <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=796263537" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=796263537&image_size=auto&color_scheme=dark" width="815" height="auto">
     <img alt="Activity Trends of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=796263537&image_size=auto&color_scheme=light" width="815" height="auto">
   </picture>
 </a>
+</div>
 
 <!--
 **vytautas-urbelis/vytautas-urbelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
