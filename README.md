@@ -1,20 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Vytautas Urbelis</h1>  
 <h3 align="center">A passionate Software Developer</h3>  
-
-<br />
 <h4 align="center">- 🔭 My Projects</h4>  
-<br />
-<br />
-<br />
 <br />
 
 <div align="center">
 ## :computer: Technologies and Tools that I know
-
-<br />
 <br />  
-
+</div>
+<div align="center">
 <a  margin="10" href="https://www.python.org" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -22,24 +16,25 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" width="52" alt="tailwindcss logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-
+</div>
 
 <br />
 <br />  
-
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-256.png" height="40" width="52" alt="Docker"  />
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png" height="40" width="52" alt="gitlab logo"  />
 <img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 <img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-256.png" alt="Postgresql" title="Postgresql"/>
+</div>
 
 <br />
 <br />  
+<div align="center">
 <img height="100" src="https://hub.datree.io/img/cicd/3.png" alt="GitLab CI / CD" title="GitLab CI / CD"/>
 <img height="100" src="https://www.django-rest-framework.org/img/logo.png" alt="DJRest" title="DJRest"/>
 <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="Django" title="Django"/>
-
-
+</div>
 
 ###
 <br />
