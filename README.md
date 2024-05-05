@@ -6,7 +6,7 @@
 
 <div align="center">
   
-## :computer: Technologies and Tools that I know
+### :computer: Technologies and Tools that I know
 
 <br />  
 </div>
@@ -36,7 +36,7 @@
 <br />
 <div align="center">
   
-## :mailbox: Connect with Me
+#### :mailbox: Connect with Me
 
 </div>
 
