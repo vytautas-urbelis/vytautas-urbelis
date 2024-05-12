@@ -4,7 +4,7 @@
 <h4 align="center">- 🔭 My Projects</h4>  
 <br />
 
-- ** [MemeRunner](https://github.com/vytautas-urbelis/memeRunner/) ** (Small browser-based game developed using JavaScript and HTML5 Canvas)
+- **[MemeRunner](https://github.com/vytautas-urbelis/memeRunner/)** (Small browser-based game developed using JavaScript and HTML5 Canvas)
 
 <br />
 <div align="center">
