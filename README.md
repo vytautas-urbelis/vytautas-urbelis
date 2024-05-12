@@ -6,7 +6,7 @@
 
 - ** [MemeRunner](https://github.com/vytautas-urbelis/memeRunner/) ** (Small browser-based game developed using JavaScript and HTML5 Canvas)
 
-
+<br />
 <div align="center">
   
 ### :computer: Technologies and Tools that I know
