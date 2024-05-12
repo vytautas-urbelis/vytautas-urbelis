@@ -3,9 +3,13 @@
 <h3 align="center">A passionate Software Developer</h3>  
 <h4 align="center">- 🔭 My Projects</h4>  
 <br />
+<br />
+- **[MemeRunner](https://github.com/vytautas-urbelis/memeRunner/)** (Small browser-based game developed using JavaScript and HTML5 Canvas)
 
-[MemeRunner](https://github.com/vytautas-urbelis/memeRunner/) (Small browser-based game developed using JavaScript and HTML5 Canvas)
-
+<br />
+<br />
+<br />
+<br />
 <div align="center">
   
 ### :computer: Technologies and Tools that I know
