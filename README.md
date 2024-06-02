@@ -5,8 +5,8 @@
 <br />
 
 - **[MemeRunner](https://github.com/vytautas-urbelis/memeRunner/)** (Small browser-based game developed using JavaScript and HTML5 Canvas)
-- **[BeeSmart](https://github.com/vytautas-urbelis/beesmart)** (3-week Final Project for Constructor Academy Fullstack Bootcamp.) 
-
+- **[BeeSmart](https://github.com/vytautas-urbelis/beesmart)** (3-week Final Project for Constructor Academy Fullstack Bootcamp.)
+- **[BeeSmart v2]** Currently working on the second version of BeeSmart, which includes mobile applications for businesses and customers, with a more secure and feature-rich backend.
 <br />
 <div align="center">
   
