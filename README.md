@@ -11,7 +11,7 @@
   
 - **[BeeSmart](https://github.com/vytautas-urbelis/beesmart)** (3-week Final Project for Constructor Academy Fullstack Bootcamp.)
 
-- **[uGem](https://github.com/vytautas-urbelis/ugem/)** (A loyalty app that allows businesses to let their customers collect stamps and vouchers, redeem them, and promote their business.)
+- **[uGem](https://github.com/vytautas-urbelis/ugem-app/)** (A loyalty app that allows businesses to let their customers collect stamps and vouchers, redeem them, and promote their business.)
   
 - **[LoreFlow](https://github.com/vytautas-urbelis/loreflow)** (AI-powered story writing application designed to assist writers in crafting their stories more creatively, quickly, and easily.)
   
