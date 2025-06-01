@@ -41,6 +41,10 @@
 </div>
 <br />
 <div align="center">
+
+My GitLab profile:
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png" height="40" width="52" alt="gitlab logo" />
+https://gitlab.com/vytautas-urbelis
   
 #### :mailbox: Connect with Me
 
