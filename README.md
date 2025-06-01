@@ -43,8 +43,8 @@
 <div align="center">
 
 My GitLab profile:
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png" height="40" width="52" alt="gitlab logo" />
-https://gitlab.com/vytautas-urbelis
+<a href="https://gitlab.com/vytautas-urbelis" target="blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png" height="40" width="52" alt="gitlab logo" /></a>
+
   
 #### :mailbox: Connect with Me
 
