@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Vytautas Urbelis</h1>  
 <h3 align="center">A passionate Software Developer</h3>  
 <h4 align="center">- 🔭 My Projects</h4>  
-<h4 align="center">My GitLab profile:</h4>  
+<h4 align="left">My GitLab profile: 
 <a href="https://gitlab.com/vytautas-urbelis" target="blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-256.png" height="20" width="26" alt="gitlab logo" /></a>
-
+</h4> 
 <br />
 
 - **[MemeRunner](https://github.com/vytautas-urbelis/memeRunner/)** (Small browser-based game developed using JavaScript and HTML5 Canvas)
