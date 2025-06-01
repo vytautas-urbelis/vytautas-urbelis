@@ -7,6 +7,10 @@
 - **[MemeRunner](https://github.com/vytautas-urbelis/memeRunner/)** (Small browser-based game developed using JavaScript and HTML5 Canvas)
   
 - **[BeeSmart](https://github.com/vytautas-urbelis/beesmart)** (3-week Final Project for Constructor Academy Fullstack Bootcamp.)
+
+- **[uGem](https://github.com/vytautas-urbelis/memeRunner/)** (A loyalty app that allows businesses to let their customers collect stamps and vouchers, redeem them, and promote their business.)
+  
+- **[LoreFlow](https://github.com/vytautas-urbelis/beesmart)** (AI-powered story writing application designed to assist writers in crafting their stories more creatively, quickly, and easily.)
   
 <br />
 <div align="center">
