@@ -13,7 +13,7 @@
 
 - **[uGem](https://github.com/vytautas-urbelis/ugem-app/)** (A loyalty app that allows businesses to let their customers collect stamps and vouchers, redeem them, and promote their business.)
   
-- **[LoreFlow](https://github.com/vytautas-urbelis/loreflow)** **[https://loreflow.app](https://loreflow.app)** (AI-powered story writing application designed to assist writers in crafting their stories more creatively, quickly, and easily.)
+- **[https://loreflow.app](https://loreflow.app)** -- **[LoreFlow](https://github.com/vytautas-urbelis/loreflow)**  (AI-powered story writing application designed to assist writers in crafting their stories more creatively, quickly, and easily.)
   
 <br />
 <div align="center">
