@@ -7,13 +7,15 @@
 </h4> 
 <br />
 
-- **[MemeRunner](https://github.com/vytautas-urbelis/memeRunner/)** (Small browser-based game developed using JavaScript and HTML5 Canvas)
+- **[MemeRunner](https://github.com/vytautas-urbelis/memeRunner/)** - Small browser-based game developed using JavaScript and HTML5 Canvas
   
-- **[BeeSmart](https://github.com/vytautas-urbelis/beesmart)** (3-week Final Project for Constructor Academy Fullstack Bootcamp.)
+- **[BeeSmart](https://github.com/vytautas-urbelis/beesmart)** - 3-week Final Project for Constructor Academy Fullstack Bootcamp.-
 
-- **[uGem](https://github.com/vytautas-urbelis/ugem-app/)** (A loyalty app that allows businesses to let their customers collect stamps and vouchers, redeem them, and promote their business.)
+- **[uGem](https://github.com/vytautas-urbelis/ugem-app/)** -A loyalty app that allows businesses to let their customers collect stamps and vouchers, redeem them, and promote their business.-
   
-- **[loreflow.app](https://loreflow.app)** -- **[LoreFlow](https://github.com/vytautas-urbelis/loreflow)**  (AI-powered story writing application designed to assist writers in crafting their stories more creatively, quickly, and easily.)
+- **[loreflow.app](https://loreflow.app)** -- **[LoreFlow](https://github.com/vytautas-urbelis/loreflow)**  - AI-powered story writing application designed to assist writers in crafting their stories more creatively, quickly, and easily.
+
+- **[turtor.app](https://turtor.app)** - A story and interactive task based language-learning app with AI that automatically generates learning materials.
   
 <br />
 <div align="center">
