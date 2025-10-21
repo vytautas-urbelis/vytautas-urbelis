@@ -15,7 +15,7 @@
   
 - **[loreflow.app](https://loreflow.com)** -- **[LoreFlow](https://github.com/vytautas-urbelis/loreflow)**  - AI-powered story writing application designed to assist writers in crafting their stories more creatively, quickly, and easily.
 
-- **[honu - Language learning app](https://honulearn.app)** - A story and interactive task based language-learning app with AI that automatically generates learning materials.
+- **[honu - Language learning app](https://honulearn.con)** - A story and interactive task based language-learning app with AI that automatically generates learning materials.
   
 <br />
 <div align="center">
